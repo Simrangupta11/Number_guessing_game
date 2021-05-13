@@ -2,13 +2,14 @@
   <p align="center">
  𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝚍𝚎𝚖𝚘 𝚐𝚊𝚖𝚎 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻 , 𝙲𝚂𝚂 , 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃  ( 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘 𝐏𝐑𝐎𝐉𝐄𝐂𝐓)
  </p>
-                                          You have to guess a number between 1 to 100
-                                                            |
-                                                            𝕍
-                                     If your PREDICTED NUMBER is equal to the SECRET NUMBER 
-                                                            |
-                                                            𝕍
-                                                     hurray!!!!! u won
+ <p align ="center">
+                                          You have to guess a number between 1 to 100<br>
+                                                            |<br>
+                                                            𝕍<br>
+                                     If your PREDICTED NUMBER is equal to the SECRET NUMBER <br>
+                                                            |<br>
+                                                            𝕍<br>
+                                                     hurray!!!!! u won<br></p>
                                                                          
                                                              
                                                            HINTS
