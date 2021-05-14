@@ -18,3 +18,12 @@
                                                                  
                                      =>  𝑒𝓃𝓉𝑒𝓇 𝒶 𝓈𝓂𝒶𝓁𝓁𝑒𝓇 𝓃𝓊𝓂𝒷𝑒𝓇 𝓉𝒽𝒶𝓃 𝓉𝒽𝑒 𝓁𝒶𝓈𝓉 𝑜𝓃𝑒
                                           (𝘋𝘰𝘯'𝘵 𝘧𝘰𝘳𝘨𝘦𝘵 𝘵𝘩𝘦 𝘳𝘢𝘯𝘨𝘦 𝘰𝘧 𝘯𝘶𝘮𝘣𝘦𝘳𝘴 𝘪𝘴 1 𝘵𝘰 100) 
+                                          
+                                        
+
+
+
+
+
+I would ❤ to connect with you at 
+<a href="www.linkedin.com/in/simranguptasangrur">LinkedIn</a>
